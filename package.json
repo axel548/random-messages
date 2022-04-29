@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/axel548/random-messages/issues"
   },
-  "homepage": "https://github.com/axel548/random-messages#readme"
+  "homepage": "https://github.com/axel548/random-messages#readme",
+  "dependencies": {
+    "cosmos-messages": "^1.0.4"
+  }
 }
